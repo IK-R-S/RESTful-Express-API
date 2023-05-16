@@ -1,3 +1,1 @@
-### Em produção...
-
-- Vídeo de estudo: https://youtu.be/_Mun4eOOf2Q
+![Express API](https://i.postimg.cc/BnwWK8G6/express-API.png)
