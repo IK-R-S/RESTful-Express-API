@@ -1,9 +1,10 @@
+// Substitua com as credenciais e endereço do seu banco de dados PostgreSQL
 const server = {
-    "host": "containers-us-west-168.railway.app",
-    "database": "railway",
-    "user": "postgres",
-    "password": "nyKJsR7MeHhUMuk8sQHW",
-    "port": "6936"
+    "host": "",
+    "database": "",
+    "user": "",
+    "password": "",
+    "port": ""
 }
 
 module.exports = server;
