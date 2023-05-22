@@ -13,15 +13,9 @@ Certifique-se de ter as seguintes dependências instaladas:
 - Node.js
 - PostgreSQL
 
-e os módulos:
+e os módulos necessários através de:
 ```
-{
-    "express": "^4.17.1",
-    "body-parser": "^1.19.0",
-    "cors": "^2.8.5",
-    "pg": "^8.6.0",
-    "pg-promise": "^10.10.0"
-}
+npm install nodemon pg express express-session body-parser cors
 ```
 
 ## Instalação
