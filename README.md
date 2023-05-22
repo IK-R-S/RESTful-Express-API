@@ -15,7 +15,7 @@ Certifique-se de ter as seguintes dependências instaladas:
 
 e os módulos necessários através de:
 ```
-npm install nodemon pg express express-session body-parser cors
+npm install nodemon pg express express-session body-parser cors jsonwebtoken
 ```
 
 ## Instalação
